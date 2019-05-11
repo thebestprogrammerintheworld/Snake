@@ -8,7 +8,7 @@ This project utilizes Arduino Uno to run the main code, 8x8 LED Matrix MAX7219 t
 
 How does it work?
 
-As mentioned earlier, Arduino Uno runs the main code. Arduino receives commands such as UP, DOWN, LEFT, RIGHT from user input. User sends these commands by pressing the corresponding buttons on the keypad of his PC. For this to work, Arduino has to be connected via a cable to the PC in order to establish serial communication between the two. After turning on Arduino the user will be required to run a python script that is responsible for creating the GUI. 
+As mentioned earlier, Arduino Uno runs the main code. Arduino receives commands such as UP, DOWN, LEFT, RIGHT from user input. User sends these commands by pressing the corresponding buttons on the keypad of his PC. For this to work, Arduino has to be connected via a cable to the PC in order to establish serial communication between the two. After turning Arduino on, the user will require to run a python script that is responsible for creating the GUI. 
 
 Instructions of use
 1.plug in
