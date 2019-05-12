@@ -1,4 +1,4 @@
-**DISCLAIMER:** this project was done for educational purposes, e.g. to improve C++/Python programming language skills and learn about possibilities to create GUI's with a goal to facilitate user interface with the microcontroller.
+**DISCLAIMER:** this project was done for educational purposes, e.g.: to improve C++/Python programming language skills and learn about possibilities to create GUI's with a goal to facilitate user interface with the microcontroller.
 
 # Introduction
 This project utilizes Arduino Uno to run the main code, 8x8 LED Matrix MAX7219 to create a graphical representation of the snake game and PC to act as an interfrace between you and the game by running a python script. Here is a list of different subjects that this project touches upon:
