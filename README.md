@@ -7,7 +7,7 @@ This project utilizes Arduino Uno to run the main code, 8x8 LED Matrix MAX7219 t
 3. Arduino Uno
 4. Electronics
 
-# How it works?
+# How it works
 As mentioned earlier, Arduino Uno runs the main code, it receives commands such as UP, DOWN, LEFT, RIGHT from user input and translates these commands to switch on LED's in a certain order to represent movement of the snake. The control of the LED matrix is accomplished by using the "MaxMatrix" library. User sends commands by pressing arrow keys on the keyboard of his PC. For this to work, Arduino has to be connected via a cable to the PC in order to establish serial communication between the two. After turning Arduino on, the user will require to run a python script that is responsible for GUI.
 
 
