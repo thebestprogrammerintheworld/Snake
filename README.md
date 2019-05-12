@@ -22,5 +22,5 @@ As mentioned earlier, Arduino Uno runs the main code, it receives commands such 
 # Instructions of use
 1. make the necessary connections on the breadboard as shown in the schematic
 2. connect Arduino and PC with USB cable ( after connection you should see a snake moving across the LED matrix )
-3. launch 8x8snake.exe on your PC, and input what port is Arduino connected to
+3. launch 8x8snake.exe on your PC, and enter full name (e.g.: COM1, COM2, COM3...) what port is Arduino connected to
 4. play!
