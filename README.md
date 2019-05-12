@@ -14,7 +14,7 @@ As mentioned earlier, Arduino Uno runs the main code, it receives commands such 
 # Required hardware
 1. Arduino Uno R3
 2. personal computer
-3. usb cable A to B
+3. USB cable A to B
 4. breadboard
 5. jumper wires
 6. MAX7219 8x8 Matrix Display Module
