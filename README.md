@@ -20,7 +20,8 @@ As mentioned earlier, Arduino Uno runs the main code, it receives commands such 
 6. MAX7219 8x8 Matrix Display Module
 
 # Instructions of use
-1. make the necessary connections on the breadboard as shown in the schematic
-2. connect Arduino and PC with USB cable ( after connection you should see a snake moving across the LED matrix )
-3. launch 8x8snake.exe on your PC, and enter what port is Arduino connected to (enter only the integer of the port, e.g. if the port is 'COM5', then enter '5')
-4. play!
+1. download and install Snake library
+2. make the necessary connections on the breadboard as shown in the schematic
+3. connect Arduino and PC with USB cable ( after connection you should see a snake moving across the LED matrix )
+4. launch 8x8snake.exe on your PC, and enter what port is Arduino connected to (enter only the integer of the port, e.g. if the port is 'COM5', then enter '5')
+5. play!
