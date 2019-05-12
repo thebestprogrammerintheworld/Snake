@@ -23,7 +23,7 @@ As mentioned earlier, Arduino Uno runs the main code, it receives commands such 
 1. download and install Snake library
 2. download and install MaxMatrix library (not provided)
 3. download and unzip Snake_GUI, inside the folder you will find 8x8snake.exe, you can create a shortcut and put it on your desktop 
-4. make the necessary connections on the breadboard as shown in the schematic
+4. make the necessary connections on the breadboard as shown in the wiring diagram
 5. connect Arduino and PC with USB cable ( after connection you should see a snake moving across the LED matrix )
 6. launch 8x8snake.exe on your PC, and enter what port is Arduino connected to (enter only the integer of the port, e.g. if the port is 'COM5', then enter '5')
 7. play!
